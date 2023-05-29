@@ -1,5 +1,5 @@
 {
-  "name": "weather-cli",
+  "name": "weather-cli-ukr-vers",
   "version": "1.0.0",
   "description": "CLI for getting weather",
   "main": "weather.js",
@@ -17,7 +17,7 @@
   ],
   "author": "Victor Chekirko",
   "license": "ISC",
-  "homepage": "dfd",
+  "homepage": "https://github.com/Chekirko/weather-cli",
   "repository": {
     "type": "git",
     "url": "https://github.com/Chekirko/weather-cli"
